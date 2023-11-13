@@ -4,5 +4,5 @@
 https://chowdhuryfatema.github.io/Quiz-App/
 ## Technologies
 -Html5 </br>
--Row CSS </br>
+-Raw CSS </br>
 -JavaScript 
